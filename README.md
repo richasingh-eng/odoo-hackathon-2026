@@ -15,6 +15,7 @@ Dispatch smarter. Drive safer. Operate leaner.
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)]()
 [![Hackathon](https://img.shields.io/badge/Hackathon-Odoo%202026-blueviolet?style=flat-square)]()
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white)](https://odoo-hackathon-2026-seven.vercel.app)
 
 <br/>
 
@@ -22,7 +23,7 @@ Dispatch smarter. Drive safer. Operate leaner.
 
 <br/>
 
-[🚀 Live Demo](#) • [📖 API Docs](#api-reference) • [🐛 Report Bug](https://github.com/richastech-collab/odoo-hackathon-2026/issues) • [✨ Request Feature](https://github.com/richastech-collab/odoo-hackathon-2026/issues)
+[🚀 Live Demo](https://odoo-hackathon-2026-seven.vercel.app) • [📖 API Docs](#api-reference) • [🐛 Report Bug](https://github.com/richastech-collab/odoo-hackathon-2026/issues) • [✨ Request Feature](https://github.com/richastech-collab/odoo-hackathon-2026/issues)
 
 </div>
 
@@ -530,7 +531,7 @@ Built with ❤️ for the **Odoo Hackathon 2026**
 |---|---|---|
 | 👑 **Team Leader** | Richa Singh | [@richa](https://github.com/richastech-collab) |
 | 💻 **Developer** | Ankit | [@ankit](https://github.com/) |
-| 🎨 **Developer** | Neha | [@neha](https://github.com/) |
+| 🎨 **Developer** | Neha Kumari | [@Neha863-tech](https://github.com/Neha863-tech) |
 | 🔧 **Developer** | Azhan | [@azhan](https://github.com/) |
 
 <br/>
